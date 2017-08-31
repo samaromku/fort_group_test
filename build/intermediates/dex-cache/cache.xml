@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andrey\.android\build-cache\c37f178920064b5ec96cc60d78de9a380180dcab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="700f8f1135982ef49cb91121a76490565f069553">
+        <dex dex="C:\androidProjects\test_f-master\app\build\intermediates\pre-dexed\debug\classes_45cde1005815a4c2198574b043776626ee03167f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andrey\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\3.5.0\1e4b144dd28b139ae890ce2868979b12e1f2d7c7\realm-annotations-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1e4b144dd28b139ae890ce2868979b12e1f2d7c7">
+        <dex dex="C:\androidProjects\test_f-master\app\build\intermediates\pre-dexed\debug\realm-annotations-3.5.0_00d5a3fa28038fbea7247973ebb6afb1e37e9223.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andrey\.android\build-cache\0efd58eb0ef09bf8195db8a7db1bfe572ab71e48\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="C:\androidProjects\test_f-master\app\build\intermediates\pre-dexed\debug\classes_9f7a23b8111cb0becf8db22ee1f21996a77ef77d.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FortGroup</string>
+    <string name="rubric">Рубрика:</string>
+    <string name="type">Тип:</string>
+    <string name="pictures">Картинки</string>
+    <string name="video">Видео</string>
+    <string name="all_news">Все новости</string>
+    <string name="one_news">Одна новость</string>
+</resources>
